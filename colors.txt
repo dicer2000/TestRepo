@@ -1,7 +1,7 @@
 orange
 red
 yellow
-green
+gray
 black
 blue
 purple
