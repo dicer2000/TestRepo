@@ -1,9 +1,10 @@
-porange
+orange
 blue
-shred
+red
 yellow-orange
-redblack
+black
+red
 purple
-brownish
+brown
 gold
 silver
