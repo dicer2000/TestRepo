@@ -1,8 +1,8 @@
 orange
 red
-yellow
+yellow-orange
+redblack
 gray
-black
 blue
 purple
 brown
