@@ -1,8 +1,7 @@
-orange
-red
+porange
+blue
+shred
 yellow-orange
 redblack
-gray
-blue
 purple
-brown
+brownish
